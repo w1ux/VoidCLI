@@ -1,5 +1,5 @@
 # VoidCLI
-Is your native language not Russian? Try another README
+Is your native language not English? Try another README
 
 [README.md](https://github.com/w1ux/VoidCLI/blob/main/README.md)
 
