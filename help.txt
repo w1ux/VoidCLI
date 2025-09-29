@@ -1,0 +1,7 @@
+help - show this menu
+exit - exit from VoidCLI
+about - about this program
+about -ru - about this program, but in Russian
+about - fr - about this program, but in French
+github - github of this project
+browser - open your browser
