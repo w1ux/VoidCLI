@@ -1,5 +1,6 @@
 # VoidCLI
 Is your native language not Russian? Try another README
+[README-en.md](https://github.com/w1ux/VoidCLI/blob/main/README-en.md)
 
 # VoidCLI - Что это?
 VoidCLI - Это мой самый первый проект на Python. VoidCLI похож на Linux, но им не является. Его я пишу в одиночку, иногда спрашиваю помощь у DeepSeek. Если захотите дополнить VoidCLI - дополняйте! Я буду рад, я буду стараться смотреть форки моего проекта, и буду смотреть, что можно добавить в следущую версию VoidCLI
