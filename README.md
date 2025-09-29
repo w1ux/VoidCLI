@@ -1,2 +1,8 @@
 # VoidCLI
-it's not a serious project, it's similar to Linux, but the code is completely mine
+Is your native language not Russian? Try another README
+
+# VoidCLI - Что это?
+VoidCLI - Это мой самый первый проект на Python. VoidCLI похож на Linux, но им не является. Его я пишу в одиночку, иногда спрашиваю помощь у DeepSeek. Если захотите дополнить VoidCLI - дополняйте! Я буду рад, я буду стараться смотреть форки моего проекта, и буду смотреть, что можно добавить в следущую версию VoidCLI
+
+# Можно ли помогать мне в разработке?
+Если честно, я пока не знаю. Я могу забросить этот проект. Но если выйдет новая версия, то можно!
